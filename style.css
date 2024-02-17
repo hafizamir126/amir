@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main1{
+    height: 70vh;
+    background-color: rgb(26, 26, 230);
+    position: relative;
+}
+h2{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin: 30px 10px 10px 100px;
+}
+.sub1{
+    color: white;
+    display: flex;
+}
+.flag{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+h3{
+    border: 2px solid white;
+    margin-left: 25px;
+    margin-right: 40px;
+    height: 24px;
+    border-radius: 12px;
+    width: 24px;
+    padding-left: 4px;
+}
+.sub2{
+    display: flex;
+    margin-left: 510px;
+    align-items: center;
+}
+.reg{
+    background-color: white;
+    color: rgb(72, 72, 252);
+    height: 30px;
+    width: 90px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.sub3{
+    margin-top: 8px;
+    padding-left: 90px;
+    height: 30vh;
+    color: white;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ab{
+    margin-left: 25px;
+    height: 10vh;
+    width: 120px;
+    text-align: center;
+    padding-top: 13px;
+}
+.stay{
+    border: 1px solid white;
+    height: 8vh;
+    width: 110px;
+    text-align: center;
+    padding-top: 13px;
+    border-radius: 40px;
+    background-color: rgb(101, 101, 247);
+}
+.sub4{
+    color: white;
+    padding-left: 90px;
+}
+.find{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+.search{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.main2{
+    height: 10vh;
+    margin: 0px 50px 0px 50px;
+    padding-bottom: 20px;
+    position: absolute;
+}
+.inp1{
+    border: 5px solid rgb(221, 189, 4);
+    width: 340px;
+    height: 40px;
+}
+.inp1::placeholder{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+.search1{
+    background-color: blue;
+    height: 40px;
+    width: 140px;
+    border: none;
+}
